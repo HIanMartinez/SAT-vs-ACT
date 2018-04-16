@@ -1,4 +1,4 @@
-# SAT-vs-ACT
+# SAT vs ACT
 This was my first project for General Assembly's Data Science Immersive.
 <br>
 I was tasked with seeking out relationships between the two large standardized tests in the US, the SAT and the ACT.<br>
