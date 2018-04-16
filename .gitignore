@@ -101,7 +101,7 @@ ENV/
 .mypy_cache/
 
 # Data
-.csv
+*.csv
 
 # Mac Stuff
 .DS_Store
